@@ -5,16 +5,13 @@ A Debian-Based Distribution of UTG/Linux (Untitled Tag Game GNU/Linux)
 It's an upcoming Linux Distribution for untitled tag game player's (Based on Debian 13 Trixie) with KDE Plasma, GNOME, and Cinnamon Desktop as main DEs. Main installers is Calamares Installers
 
 # FAQ - Frequently Asked Questions
-Q: Why do you create UTG/Linux?
-A: Because i'm untitled tag game player's/fandom on roblox, and also i love linux User's too. So i've decided to make it
-Q: When UTG/Linux will be release?
-A: Around December 2025 or January 2026
-Q: UTG/Linux is based on?
-A: Debian GNU/Linux 13 (Trixie)
-Q: Status of UTG/Linux release?
-A: Currently, it's on Pre-RC stage
-Q: What's your main DEs?
-A: GNOME, KDE Plasma, and Cinnamon Desktop Environment
+| **Question** | **Answer** |
+|--------------|------------|
+| Why do you create UTG/Linux? | Because I'm an Untitled Tag Game player/fan on Roblox, and I also love Linux users. So I decided to make it. |
+| When will UTG/Linux be released? | Around December 2025 or January 2026. |
+| UTG/Linux is based on? | Debian GNU/Linux 13 (Trixie). |
+| Status of UTG/Linux release? | Currently, it's in the Pre-RC (Pre-Release Candidate) stage. |
+| What are your main DEs? | GNOME, KDE Plasma, and Cinnamon Desktop Environment. |
 
 # Features
 - Calamares Installers
@@ -29,7 +26,7 @@ KDE Plasma:
 Cinnamon Desktop: 
 (Coming Soon on RC Release)
 
-# ISO?
-GNOME: https://drive.google.com/file/d/1jWcQEuJz1-OAjhy_0DPzte7S-o5zbrzo/view?usp=drive_link
-KDE Plasma: https://drive.google.com/file/d/1F1rZ9ONQ1DAe88kyvWqNvRLg3I1ccLGi/view?usp=sharing
-Cinnamon DE: Coming Soon in RC Release
+# ISO Downloads
+**GNOME**：https://drive.google.com/file/d/1jWcQEuJz1-OAjhy_0DPzte7S-o5zbrzo/view?usp=drive_link  
+**KDE Plasma**：https://drive.google.com/file/d/1F1rZ9ONQ1DAe88kyvWqNvRLg3I1ccLGi/view?usp=sharing  
+**Cinnamon DE**：Coming Soon in RC Release
