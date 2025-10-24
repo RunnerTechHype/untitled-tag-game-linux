@@ -31,3 +31,11 @@ Cinnamon Desktop:
 **GNOME**：https://drive.google.com/file/d/1jWcQEuJz1-OAjhy_0DPzte7S-o5zbrzo/view?usp=drive_link  
 **KDE Plasma**：https://drive.google.com/file/d/1F1rZ9ONQ1DAe88kyvWqNvRLg3I1ccLGi/view?usp=sharing  
 **Cinnamon DE**：Coming Soon in RC Release
+
+# Contact:
+- Discord: untitledtaggame_hype
+- Tiktok: (same discord username)
+- YT: guesty_moment (Runner_UTG)
+
+# Roblox:
+DemonBall_Hype
