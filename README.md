@@ -13,7 +13,7 @@ It's an upcoming Linux Distribution for untitled tag game player's (Based on Deb
 | Status of UTG/Linux release? | Currently, it's in the Pre-RC (Pre-Release Candidate) stage. |
 | What are your main DEs? | GNOME, KDE Plasma, and Cinnamon Desktop Environment. |
 | Is UTG/Linux for untitled tag game (roblox) player's and fandom who loves linux? | Yes! It's for untitled tag game player's and fandom BTW >:3 |
-| What's your UTG/Linux codename? | Runner (will be used in RC release) |
+| What's your UTG/Linux codename? | Runner (will be used in RC release and thanks to carl_ati on discord for submit codenames) |
 
 # Features
 - Calamares Installers
