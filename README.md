@@ -18,7 +18,9 @@ It's an upcoming Linux Distribution for untitled tag game player's (Based on Deb
 # Features
 - Calamares Installers
 - Post-installation script after installation (post-installation.sh, but i will rename to utg-post-install.sh in RC release)
-- Others (Coming Soon)
+- Updated os-release (same os-release update from Snapshot 20251101 of UTG/Linux Garfield, and will be added in RC Release)
+- Breeze Dark theme by default (To be added too in RC Release)
+- Others (Submit features via issues https://github.com/RunnerTechHype/untitled-tag-game-linux/issues)
 
 # Screenshots
 GNOME:
